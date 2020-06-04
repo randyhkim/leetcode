@@ -1,1 +1,2 @@
 resolved
+Randy added a new line
