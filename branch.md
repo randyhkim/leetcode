@@ -91,3 +91,9 @@ Then push:
 git pull origin master
 git push origin master
 ```
+
+## Getting Help
+```
+git merge --help
+git help merge
+```
